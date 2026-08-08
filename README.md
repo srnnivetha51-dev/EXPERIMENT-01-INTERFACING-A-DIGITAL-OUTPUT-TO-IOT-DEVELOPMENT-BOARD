@@ -545,11 +545,11 @@ void assert_failed(uint8_t *file, uint32_t line)
 #endif /* USE_FULL_ASSERT */
 ```
 ## OUTPUT
-##1A OUTPUT
+1A OUTPUT
 <img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/ca4cbc48-2216-445f-959d-c721cc5c0385" />
 <img width="1600" height="728" alt="IOT 1" src="https://github.com/user-attachments/assets/cbdf9471-6af0-48f3-83f6-9fbb2c541216" />
 
-##1B OUTPUT
+1B OUTPUT
 <img width="1600" height="1200" alt="WhatsApp Image 2026-08-02 at 7 01 36 PM" src="https://github.com/user-attachments/assets/ae8d03a1-d868-4688-99a8-51194105cd59" />
 <img width="1600" height="1200" alt="WhatsApp Image 2026-08-02 at 7 01 17 PM" src="https://github.com/user-attachments/assets/e52de055-3e51-480b-8a5e-a432744c2a8d" />
 
